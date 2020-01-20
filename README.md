@@ -6,4 +6,3 @@ A website layout designed with Flexbox.
 
 - CSS
 - HTML
-- Flexbox
