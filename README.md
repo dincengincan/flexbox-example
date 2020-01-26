@@ -1,6 +1,6 @@
 # Flexbox Example
 
-A website layout designed with Flexbox.
+A website layout designed with "Flexbox".
 
 ## Technologies Used
 
